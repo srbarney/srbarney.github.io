@@ -1,0 +1,3 @@
+[submodule "mc-server-properties-generator"]
+	path = mc-server-properties-generator
+	url = https://github.com/srbarney/mc-server-properties-generator
